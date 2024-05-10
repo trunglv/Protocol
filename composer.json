@@ -1,6 +1,6 @@
 {
-    "name"       : "hoa/protocol",
-    "description": "The Hoa\\Protocol library.",
+    "name"       : "trunglv/protocol",
+    "description": "The Hoa\\Protocol library. [Trunglv Maintenance]",
     "type"       : "library",
     "keywords"   : ["library", "protocol", "resource", "stream", "wrapper"],
     "homepage"   : "https://hoa-project.net/",
