@@ -24,7 +24,7 @@
     },
     "require": {
         "php"            : ">=7.1",
-        "hoa/consistency": "dev-master",
+        "trunglv/consistency": "dev-master",
         "hoa/exception"  : "dev-master"
     },
     "require-dev": {
@@ -37,10 +37,5 @@
             "Hoa\\Protocol\\Test\\": "Test"
         },
         "files": ["Source/Wrapper.php"]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.x-dev"
-        }
     }
 }
